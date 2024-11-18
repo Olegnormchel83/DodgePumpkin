@@ -13,8 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-/Content/AdvancedVillagePack
-/Content/Characters
-/Content/LevelPrototyping
-/Content/StarterContent
-/Content/ThirdPerson
+Content/AdvancedVillagePack
+Content/Characters
+Content/LevelPrototyping
+Content/StarterContent
+Content/ThirdPerson
