@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Build/*
 .vscode
 .vs
 *.VC.db
@@ -15,5 +16,5 @@ Saved
 Content/AdvancedVillagePack
 Content/Characters
 Content/LevelPrototyping
-Content/StarterContent
-Content/ThirdPerson
+Content/MSPresets
+Content/M5VFXVOL2
